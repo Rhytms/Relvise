@@ -847,6 +847,7 @@ h1,h2,h3,h4,h5,h6{
   color: #fff;
   letter-spacing: 0.2px;
   text-align: center;
+  cursor: pointer;
 }
 @media(max-width:479px){
   .contacts__body{
